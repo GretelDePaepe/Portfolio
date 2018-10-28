@@ -16,12 +16,7 @@ Healthcare data hackathon as part of out IBM Data Science Bootcamp in Madrid
 
 
 ### RegTech
-Usage of advanced analytics and machine learning methods to derive insights into the stock of federal regulations. 
-The objective is in this notebook is 3-fold:
-- Usage of unsupervised machine learning algorithm to find the Nearest Neighbors for regulations, aka regulations which show similar wording and therefore have a high likelihood to be of similar content.
-- Linkage of the stock of federal regulations to industry sectors
-- Identification of regulations which potentially use archaic language.
-The idea is to demonstrate the feasibility and benefits of some advanced analytics and AI ideas quickly in a 'garage' style mode. Throughout the objectives mentioned above, there is a focus on visualizing results in an appealing and intuitive manner.
+Usage of advanced analytics and machine learning methods to derive insights into the stock of federal regulations.
 
 
 ### TaxSpyder
